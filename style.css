@@ -88,6 +88,10 @@ input[type="checkbox"] {
   color: #71a1bd;
   font-family: "Scheherazade New", serif;
   font-weight: bold;
+  border: 1px solid blueviolet;
+
+  width: 200px;
+  border-radius: 8px;
 }
 
 button {
